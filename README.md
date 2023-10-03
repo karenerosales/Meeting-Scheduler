@@ -3,8 +3,8 @@ This python program takes a set of inputs from users to find a designated meetin
 
 Karene Rosales
 krosales@csu.fullerton.edu
-r
-#Developing
+
+# Developing
 Clone the repository and go into the directory
 
 # Create input file
